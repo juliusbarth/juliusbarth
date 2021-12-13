@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliusbarth
-- 👀 I’m interested in Operations Research and Management Science (#ORMS)
+- 👀 I’m interested in Operations Research and Management Science (#ORMS), specifically Healthcare Operations Management.
 - 🌱 I’m currently learning all types of optimization methods 
 - 📫 How to reach me @JuliusBarth (Twitter)
 
