@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliusbarth
 - 👀 I’m interested in Operations Research and Management Science (#ORMS)
-- 🌱 I’m currently learning all types of optimization methods 
+- 🌱 I’m currently (always) learning all types of optimization methods 
 - 📫 How to reach me @JuliusBarth (Twitter)
 
 <!---
